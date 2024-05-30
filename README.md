@@ -2,7 +2,7 @@
 
 Google colabで開くためのリンク
 
-- ![A2-3.ipynb](https://colab.research.google.com/github/kitasuka/excercise2_algorithm2/blob/main/A2-3.ipynb)
+- [A2-3.ipynb](https://colab.research.google.com/github/hu-ids-exercise-algorithm-II/excercise2_algorithm2/blob/main/A2-3.ipynb)
 
 Google colabでノートブックを開く．
 
