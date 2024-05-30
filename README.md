@@ -1,17 +1,17 @@
 # notebooks
 
-Google colabで開くためのリンク
+## Google colabで開くためのリンク
 
 - [A2-3.ipynb](https://colab.research.google.com/github/hu-ids-exercise-algorithm-II/excercise2_algorithm2/blob/main/A2-3.ipynb)
 
-Google colabでノートブックを開く．
+## Google colabでノートブックを開く手順
 
-1. ノートブックのコピーを保存する．
+1. ノートブックのコピーする．
    1. 上のURLをブラウザ（EdgeやChrome）で開く．
    2. 「ドライブにコピー」ボタンを押してノートブックをGoogleドライブにコピーする．
    3. 編集するのはコピーしたものにする．コピーせずに編集すると自動的に「変更が保存」されません．
    4. コピーしたノートブックは「Googleドライブ」に保存されている．
-2. ノートブックで作業する．
+2. コピーしたノートブックで作業する．
    1. ブラウザで
 	  https://colab.research.google.com/
       を開いて，「Googleドライブ」の中のノートブックを開く．
