@@ -2,6 +2,11 @@
 
 ## Google colabで開くためのリンク
 
+- [A2-1-1.ipynb](https://colab.research.google.com/github/hu-ids-exercise-algorithm-II/excercise2_algorithm2/blob/main/A2-1-1.ipynb)
+- [A2-1-2.ipynb](https://colab.research.google.com/github/hu-ids-exercise-algorithm-II/excercise2_algorithm2/blob/main/A2-1-2.ipynb)
+- [A2-1-3.ipynb](https://colab.research.google.com/github/hu-ids-exercise-algorithm-II/excercise2_algorithm2/blob/main/A2-1-3.ipynb)
+- [A2-1-4.ipynb](https://colab.research.google.com/github/hu-ids-exercise-algorithm-II/excercise2_algorithm2/blob/main/A2-1-4.ipynb)
+
 - [A2-3.ipynb](https://colab.research.google.com/github/hu-ids-exercise-algorithm-II/excercise2_algorithm2/blob/main/A2-3.ipynb)
 
 ## Google colabでノートブックを開く手順
