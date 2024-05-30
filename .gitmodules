@@ -1,0 +1,3 @@
+[submodule "graphs"]
+	path = graphs
+	url = git@github.com:hu-ids-exercise-algorithm-II/graphs.git
